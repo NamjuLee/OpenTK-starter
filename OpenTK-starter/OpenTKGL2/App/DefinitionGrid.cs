@@ -20,6 +20,7 @@ namespace OpenTKApp {
             GL.Rotate(-45, 1, 0, 0);
 
             // https://docs.microsoft.com/en-us/dotnet/api/opentk.graphics.es30.primitivetype?view=xamarin-ios-sdk-12
+            // https://www.google.com/search?q=opengl+PrimitiveType&sxsrf=ALeKk01LCXwtRI-mIhYOlG0XPYjcKRluGg:1626925733735&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp_7zT4vXxAhXcEVkFHXTeCM4Q_AUoAnoECAEQBA&biw=2560&bih=1307#imgrc=gnfdepQhBL7OkM&imgdii=uynCf8PK_MZHWM
             GL.Begin(PrimitiveType.Points);
             GL.PointSize(this.t);
             GL.Color4(0.0, 1.0f, 0.0f, 1.0);
