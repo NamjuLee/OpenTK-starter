@@ -4,6 +4,8 @@ nj.namju@gmail.com
 
 www.njstudio.co.kr
 
+Tistory Index: https://computationaldesign.tistory.com/40
+
 This code is for the those who want to learn or develop CAD systems, Visualization, or Drawing tools based on HTML Canvas.
 
 1. OpenTKStarter is a simple OpenTK implementation
